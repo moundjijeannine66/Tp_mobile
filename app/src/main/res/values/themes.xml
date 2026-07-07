@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.France24Mobile" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/bleu_marine</item>
+        <item name="colorPrimaryDark">@color/bleu_marine</item>
+        <item name="colorAccent">@color/rouge_accent</item>
+        <item name="android:windowBackground">@color/gris_fond</item>
+    </style>
+</resources>
