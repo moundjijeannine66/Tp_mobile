@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NDjamena24</string>
+    <string name="titre_articles">Articles</string>
+    <string name="titre_categories">Catégories</string>
+    <string name="titre_videos">Vidéos</string>
+</resources>
